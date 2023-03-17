@@ -1,33 +1,34 @@
 # Site
-repository: jojoldu/jojoldu.github.io
+repository: glay415/glay415.github.io
 # favicon: images/favicon.ico
 
 # Personal info
-name: 이동욱
+name: 이준서
 title: 서버 백엔드 엔지니어
-email: jojoldu@gmail.com
-website: https://jojoldu.tistory.com
+email: magpieprinc@gmail.com
+#website: https://jojoldu.tistory.com
 
 # Social links
 # twitter_username: jojoldu
-github_username:  jojoldu
+github_username:  glay415
 # dribbble_username: jekyll
-facebook_username: jojoldu
+#facebook_username: jojoldu
 # flickr_username: jekyll
-# linkedin_username: jojoldu
+linkedin_username: 준서-이-75241a228
 # pinterest_username: jekyll
-youtube_username: UCSEOUzkGNCT_29EU_vnBYjg
+#youtube_username: UCSEOUzkGNCT_29EU_vnBYjg
 
 # About Section
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Java & Spring / NodeJS & TypeScript, AWS 기반의 10년차 서버 백엔드 개발자로
-  **누적 회원수 100만**의 에듀테크, **MAU 1,500만 & 일 주문 300만 커머스**, **일 PV 2,000만 포탈** 등의 서비스에서 백엔드 플랫폼 개발 및 AWS 인프라 구축 등을 해왔습니다.<br/>
-  개인이 하고 싶은 일 보다는 <mark>회사와 팀에 도움이 되는</mark> 개발을 해야한다는 생각에
-  xtrabackup, pt-online-schema-change, MHA를 활용한 MySQL 운영, Ansible을 이용한 IDC 인프라 운영을 해오기도 했습니다.<br/>
-  <mark>테스트 코드</mark> 작성을 당연하게 생각하여 전 직장 시스템의 경우 2500개의 테스트 케이스가 하루에도 수십번 수행되는 환경을 구성하였습니다.<br/>
-  현재는 <mark>CTO</mark>로 사업과 제품의 방향성을 고려하여 채용, 시스템 설계, 팀 매니징, <mark>팀원과 팀의 성장</mark> 등을 주요 업무로 하고 있습니다.<br/>
+  안녕하세요, **대덕소프트웨어 마이스터 고등학교 재학** 중인 이준서입니다. **Java**와 **Kotlin**을 활용해 **Spring Boot**를 다루며, 
+  클라우드 기술을 활용한 <mark>서버 아키텍처 설계와 개발 방법론</mark>에 관심이 있습니다. <br/>
+  학교에서 Entry라는 동아리의 부장직을 맡아 학교의 **입학전형 시스템을 개발 & 운영**해보았고, **기숙사 관리 시스템**과 **레주메관리 시스템**
+  등 여러 프로젝트들을 통해 실무적인 역량을 키웠습니다. 그 과정에서 새로운 기술과 패러다임을 적용해보기도 하고 여러 시행착오와 
+  협업을 거쳐 **저와 팀의 성장**을 이끌어낸 바 있습니다. <br/> <br/>
+  저는 <mark>지속적인 학습과 혁신</mark>을 추구하며, 새로운 패러다임과 기술에 관심을 가지고 있습니다. 
+  끊임없이 발전하는 IT 산업에서 빠르게 변화에 적응하고, 업계의 선두를 달리는 전문가로 성장하고자 합니다.<br/>
 
 
 # Projects Section
