@@ -20,7 +20,7 @@ linkedin_username: 준서-이-75241a228
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/profile2.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요, **대덕소프트웨어 마이스터 고등학교 재학** 중인 이준서입니다. **Java**와 **Kotlin**을 활용해 **Spring Boot**를 다루며, 
   클라우드 기술을 활용한 <mark>서버 아키텍처 설계와 개발 방법론</mark>에 관심이 있습니다. <br/>
